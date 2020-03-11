@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 記
+title: 記 瓜牛时光
 subtitle: 'hello lilon'
 description: '学习 生活 记录'
 keywords:
@@ -99,5 +99,8 @@ theme: even
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:lilon89/lilon89.github.io.git
-  branch: master
+  repo: 
+   coding: git@e.coding.net:zhurou/iijoo.git
+   github: git@github.com:lilon89/lilon89.github.io.git
+  branch: master 
+  
